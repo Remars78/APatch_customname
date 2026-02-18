@@ -106,7 +106,7 @@ android {
     }
 
     defaultConfig {
-        applicationId = "com.my.custom.apatch"
+        applicationId = "com.zivchik.settings"
         minSdk = androidMinSdkVersion
         targetSdk = androidTargetSdkVersion
         versionCode = managerVersionCode
