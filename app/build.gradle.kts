@@ -106,6 +106,7 @@ android {
     }
 
     defaultConfig {
+        applicationId = "com.my.custom.apatch"
         minSdk = androidMinSdkVersion
         targetSdk = androidTargetSdkVersion
         versionCode = managerVersionCode
